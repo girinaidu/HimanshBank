@@ -1,0 +1,6 @@
+{
+  "Name": "Git project",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
